@@ -1,7 +1,7 @@
 body {
 	font-size: 67.5%;
 	font-family: Tahoma, Geneva, sans-serif;
-	background: #2e2e2d url(./storeAssets/amazingKitchen.jpg) fixed  top center;
+	background: #2e2e2d url("https://images.unsplash.com/photo-1556912167-f556f1f39fdf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a2l0Y2hlbnN8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60") fixed  top center;
     background-repeat: no-repeat;
 	padding: 0;
 	margin: 0;
